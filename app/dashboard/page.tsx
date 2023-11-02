@@ -4,8 +4,6 @@ import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
 import { lusitana } from '@/app/ui/fonts';
 import {
   fetchCardData,
-  fetchCustomers,
-  fetchInvoicesPages,
   fetchLatestInvoices,
   fetchRevenue,
 } from '@/app/lib/data';
